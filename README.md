@@ -32,9 +32,6 @@ All credits for the original tutorial and guidance go to the creator. This proje
 * Interactive components
 * Pet-friendly themed sections and visuals
 
-## Mock Up LumiNails Website
+## 🐶 Mock Up LumiPets Website
 
 <img width="1920" height="960" alt="work5" src="https://github.com/user-attachments/assets/784f48e7-f033-4f22-8fb2-301beb7dc8f8" />
-
-
-## 🐶 Mock Up LumiPets Website
