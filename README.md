@@ -35,6 +35,7 @@ All credits for the original tutorial and guidance go to the creator. This proje
 * Clean and structured visual hierarchy
 * Interactive components
 * Pet-friendly themed sections and visuals
+* Booking Menu
 
 ## 🚀 How to Run a Project ? Lets start
 If you want to try this project on your local computer without using Git, follow these steps :
