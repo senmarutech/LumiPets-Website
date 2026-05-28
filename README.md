@@ -38,6 +38,7 @@ All credits for the original tutorial and guidance go to the creator. This proje
 * Booking Menu
 
 ## 🚀 How to Run a Project ? Lets start
+
 If you want to try this project on your local computer without using Git, follow these steps :
 1. Download Source Code
    - Click the green Code button at the top right of this GitHub repository page.
