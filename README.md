@@ -2,6 +2,10 @@
 
 ---
 
+## 🐶 Mock Up LumiPets Website
+
+<img width="1920" height="960" alt="work5" src="https://github.com/user-attachments/assets/784f48e7-f033-4f22-8fb2-301beb7dc8f8" />
+
 A web-based pet care and lifestyle website project focused on delivering a modern, playful, and visually engaging user interface.
 This project was built as part of my learning journey in React, where I developed the application while following and adapting tutorials for educational purposes.
 
@@ -32,6 +36,16 @@ All credits for the original tutorial and guidance go to the creator. This proje
 * Interactive components
 * Pet-friendly themed sections and visuals
 
-## 🐶 Mock Up LumiPets Website
-
-<img width="1920" height="960" alt="work5" src="https://github.com/user-attachments/assets/784f48e7-f033-4f22-8fb2-301beb7dc8f8" />
+## 🚀 How to Run a Project ? Lets start
+If you want to try this project on your local computer without using Git, follow these steps :
+1. Download Source Code
+   - Click the green Code button at the top right of this GitHub repository page.
+   - Select Download ZIP.
+   - Extract the downloaded ZIP file into a folder on your computer.
+2. Open Project Folder in Terminal
+   - Open your terminal (Git Bash or PowerShell) and navigate into the extracted folder using the cd command : cd LumiNails-Website
+3. Install All Dependencies
+   - Run this command to automatically install all required packages (Vite, Tailwind v4, React Icons, Lucide) listed in the project (npm install).
+4. Run the Application
+   - Once the installation is complete, start the local development server with this command : npm run dev.
+   - Now, open your browser and go to (http://localhost:5173) to view the live project.
